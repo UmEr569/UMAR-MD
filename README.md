@@ -165,7 +165,7 @@
   <img src="https://github.com/JawadTechXD/JAWAD-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 JAWAD STATUS
+## 👑 UmEr STATUS
 
 ```diff
 + Project Status: Active
